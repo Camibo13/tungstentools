@@ -1,8 +1,10 @@
 package com.smilerpunk.tungstentools;
 
 import com.mojang.logging.LogUtils;
+import com.smilerpunk.tungstentools.item.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.CreativeModeTabEvent;
@@ -29,6 +31,8 @@ public class Tungstentools {
     public Tungstentools() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
+        ModItems.register(modEventBus);
+
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
@@ -41,7 +45,9 @@ public class Tungstentools {
     }
 
     private void  addCreative(CreativeModeTabEvent.BuildContents event)  {
-
+        if(event.getTab() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.TUNGSTEN_INGOT);
+        }
     }
     // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
     @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
