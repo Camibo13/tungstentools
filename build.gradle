@@ -4,7 +4,7 @@ plugins {
 
 
 group = 'com.smilerpunk.tungstentools'
-version = '0.0.1-1.19.3'
+version = '1.0.0-1.19.3'
 
 java {
     archivesBaseName = 'tungstentools'

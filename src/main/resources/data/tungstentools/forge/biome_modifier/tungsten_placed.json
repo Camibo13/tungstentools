@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": ["tungstentools:tungsten_placed", "tungstentools:tungsten_placed_large"],
+  "step": "underground_ores"
+}
