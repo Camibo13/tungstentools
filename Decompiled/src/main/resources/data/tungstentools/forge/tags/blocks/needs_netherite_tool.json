@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tungstentools:tungsten_block",
+    "tungstentools:tungsten_ore",
+    "tungstentools:deepslate_tungsten_ore",
+    "tungstentools:raw_tungsten_block"
+
+  ]
+}

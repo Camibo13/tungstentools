@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "tungstentools:item/tungsten_pickaxe"
+  }
+}
