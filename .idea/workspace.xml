@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="121f5062-3535-4d94-a37f-33ebb41f6ed1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smilerpunk/tungstentools/Tungstentools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smilerpunk/tungstentools/block/ModBlocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smilerpunk/tungstentools/item/ModArmourMaterials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smilerpunk/tungstentools/item/ModCreativeModeTabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smilerpunk/tungstentools/item/ModItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smilerpunk/tungstentools/item/ModTiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smilerpunk/tungstentools/worldgen/ModOrePlacement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/blockstates/deepslate_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/blockstates/raw_tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/blockstates/tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/blockstates/tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/lang/en_gb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/lang/en_us.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/block/deepslate_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/block/raw_tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/block/tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/block/tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/deepslate_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/raw_tungsten.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/raw_tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_axe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_boots.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_chestplate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_helmet.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_hoe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_ingot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_leggings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_pickaxe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_shovel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/models/item/tungsten_sword.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/block/deepslate_tungsten_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/block/raw_tungsten_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/block/tungsten_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/block/tungsten_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/raw_tungsten.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_axe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_boots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_chestplate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_helmet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_hoe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_ingot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_leggings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_pickaxe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_shovel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/item/tungsten_sword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/models/armor/tungsten_layer_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tungstentools/textures/models/armor/tungsten_layer_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/blocks/beacon_base_blocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/blocks/mineable/pickaxe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/blocks/tungsten_ores.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/items/beacon_payment_items.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/forge/biome_modifier/tungsten_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/forge/biome_modifier/tungsten_placed_deepdark.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/forge/tags/blocks/needs_netherite_tool.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/loot_tables/blocks/deepslate_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/loot_tables/blocks/raw_tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/loot_tables/blocks/tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/loot_tables/blocks/tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/raw_tungsten.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/raw_tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_axe_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_boots_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_chestplate_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_helmet_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_hoe_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_ingot_from_blasting_deepslate_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_ingot_from_blasting_raw_tungsten.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_ingot_from_blasting_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_ingot_from_smelting_deepslate_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_ingot_from_smelting_raw_tungsten.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_ingot_from_smelting_tungsten_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_ingot_from_tungsten_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_leggings_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_pickaxe_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_shovel_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/recipes/tungsten_sword_smithing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/worldgen/configured_feature/tungsten_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/worldgen/configured_feature/tungsten_placed_deepdark.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/worldgen/configured_feature/tungsten_placed_large.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/worldgen/placed_feature/tungsten_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/worldgen/placed_feature/tungsten_placed_deepdark.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/tungstentools/worldgen/placed_feature/tungsten_placed_large.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pack.mcmeta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OQbVKRInGJwlv8VMxnXfyErC8E" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="121f5062-3535-4d94-a37f-33ebb41f6ed1" name="Changes" comment="" />
+      <created>1681495779270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681495779270</updated>
+    </task>
+    <servers />
+  </component>
+</project>
