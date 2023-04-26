@@ -38,19 +38,19 @@ public class ModItems {
                     new Item.Properties()));
 
     public static final RegistryObject<Item> TUNGSTEN_HELMET = ITEMS.register("tungsten_helmet",
-            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, EquipmentSlot.HEAD,
+            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, ArmorItem.Type.HELMET,
                     new Item.Properties()));
 
     public static final RegistryObject<Item> TUNGSTEN_CHESTPLATE = ITEMS.register("tungsten_chestplate",
-            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, EquipmentSlot.CHEST,
+            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, ArmorItem.Type.CHESTPLATE,
                     new Item.Properties()));
 
     public static final RegistryObject<Item> TUNGSTEN_LEGGINGS = ITEMS.register("tungsten_leggings",
-            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, EquipmentSlot.LEGS,
+            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, ArmorItem.Type.LEGGINGS,
                     new Item.Properties()));
 
     public static final RegistryObject<Item> TUNGSTEN_BOOTS = ITEMS.register("tungsten_boots",
-            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, EquipmentSlot.FEET,
+            () -> new ArmorItem(ModArmourMaterials.TUNGSTEN, ArmorItem.Type.BOOTS,
                     new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
